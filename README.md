@@ -8,6 +8,7 @@ NOTE
 
 * no horizontal rule in MacDown editor
 * with horizontal rule in GitHub README.md
+* no horizontal rule in GitBook
 
 ---
 
@@ -21,6 +22,7 @@ NOTE
 
 * with horizontal rule in MacDown editor
 * with horizontal rule in GitHub README.md
+* no horizontal rule in GitBook
 
 ---
 
@@ -34,5 +36,6 @@ NOTE
 
 * no horizontal rule in MacDown editor
 * no horizontal rule in GitHub README.md
+* no horizontal rule in GitBook
 
 ---
