@@ -39,3 +39,13 @@ NOTE
 * no horizontal rule in GitBook
 
 ---
+
+```
+\<html>
+```
+
+\<html>
+
+NOTE: escape angle brackets
+
+---
