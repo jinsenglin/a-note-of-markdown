@@ -44,8 +44,24 @@ NOTE
 \<html>
 ```
 
-\<html>
-
 NOTE: escape angle brackets
+
+* works in MacDown editor
+* works in GitHub README.md
+* not works in GitBook (cause `gitbook serve` to fail)
+
+---
+
+```
+`<html>`
+```
+
+`<html>`
+
+NOTE:
+
+* works in MacDown editor
+* works in GitHub README.md
+* works in GitBook
 
 ---
