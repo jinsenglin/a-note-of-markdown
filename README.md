@@ -65,3 +65,15 @@ NOTE:
 * works in GitBook
 
 ---
+
+```
+[www.google.com](http://www.google.com)
+```
+
+[www.google.com](http://www.google.com)
+
+NOTE:
+
+* works in MacDown editor
+* works in GitHub README.md
+* works in GitBook 
